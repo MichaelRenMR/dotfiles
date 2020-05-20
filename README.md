@@ -11,4 +11,4 @@ Some other important components:
 *  Application style: `Breeze`
 *  Window Decorations: `BreezeEnhanced`
 *  Icons: `ePapirus`
-
+*  Konsole Theming: `bash-it/clean`
