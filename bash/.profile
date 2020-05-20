@@ -1,0 +1,2 @@
+# Profile
+export PATH=$PATH
